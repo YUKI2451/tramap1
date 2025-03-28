@@ -3,7 +3,8 @@ return {
     -- Join Discord Group: https://bit.ly/Toramod---
     Ver= "4.0.70",
 
- 
+ lngrange = 16178840,
+RangeHit = 21334276,
 
 
 }
